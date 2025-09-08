@@ -1,0 +1,4 @@
+openai
+python-dotenv
+tiktoken
+PyPDF2 # For handling PDFs
